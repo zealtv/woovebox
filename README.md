@@ -1,2 +1,3 @@
 # woovebox
-woovebox patches etc
+
+resources for this amazing little box.
